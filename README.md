@@ -8,13 +8,13 @@
 ## My Github stats so far :
 
 <div>
-  <img src="https://i.imgur.com/MAzvFZn.png" width="120"/>
+  <img src="https://i.imgur.com/MAzvFZn.png" width="100"/>
       <img
-        height="180em"
+        height="150em"
         src="https://github-readme-stats-eight-theta.vercel.app/api?username=zk2k2&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"
       />
       <img
-        height="180em"
+        height="150em"
         src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=zk2k2&layout=compact&langs_count=8&theme=algolia"
       />
 </div>
