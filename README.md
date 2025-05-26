@@ -1,7 +1,7 @@
 # Hey there 👋! Welcome to my GitHub profile
 
 - 👋 Hi, I’m Zied, a CS student [@INSAT](https://www.linkedin.com/school/national-institute-of-applied-science-and-technology/), based in Tunisia.<br/>
-- 💻 Currently a part-time backend developer [@Wecraft](https://www.linkedin.com/company/wecraftn/).<br />
+- 💻 Currently a part-time Backend Software Engineer [@Wecraft](https://www.linkedin.com/company/wecraftn/).<br />
 - ✨ Interested in Software Development, DevOps and AI.<br />
 - 🎯 Always open to collaborating on exciting projects!<br />
 
