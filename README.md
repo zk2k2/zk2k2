@@ -20,7 +20,6 @@
 </div>
 
 ## My credentials :
-![blob]()
 
 <div class="creds">
   <a
@@ -29,7 +28,7 @@
     rel="noreferrer"
   >
     <img
-      height="30px"
+      height="100px"
       src="https://github.com/user-attachments/assets/e0c7d69f-58ce-414c-b514-8c5368b2e427"
       alt="CKAD"
     />
