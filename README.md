@@ -26,36 +26,36 @@
     href="https://www.credly.com/badges/76148454-8f7e-4980-82f3-075007ba8209"
     target="_blank"
     rel="noreferrer"
-    style="margin-right: 30px;"
   >
     <img
       height="100px"
       src="https://github.com/user-attachments/assets/e0c7d69f-58ce-414c-b514-8c5368b2e427"
       alt="ckad"
+      style="margin-right: 30px;"
     />
   </a>
    <a
     href="https://www.credly.com/badges/a5a7bfa3-e1ff-49e2-bfa7-a4388d237f62"
     target="_blank"
     rel="noreferrer"
-    style="margin-right: 30px;"
   >
     <img
       height="100px"
       src="https://github.com/user-attachments/assets/fcf16be2-2260-4975-b511-b73cc008d5a5"
       alt="aws"
+      style="margin-right: 30px;"
     />
   </a>
      <a
     href="https://www.credly.com/badges/2f3e018b-7cde-442e-a775-b1e310583bd0"
     target="_blank"
     rel="noreferrer"
-    style="margin-right: 30px;"
   >
     <img
       height="100px"
       src="https://github.com/user-attachments/assets/40a5f724-33bc-49d3-b40d-507c6cc947d0"
       alt="azure"
+      style="margin-right: 30px;"
     />
   </a>
 </div>
