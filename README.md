@@ -20,11 +20,9 @@
 </div>
 
 ## My credentials :
-
-[![CKAD Badge](https://github.com/user-attachments/assets/e0c7d69f-58ce-414c-b514-8c5368b2e427)](https://www.credly.com/badges/76148454-8f7e-4980-82f3-075007ba8209)  
-[![AWS Badge](https://github.com/user-attachments/assets/fcf16be2-2260-4975-b511-b73cc008d5a5)](https://www.credly.com/badges/a5a7bfa3-e1ff-49e2-bfa7-a4388d237f62)  
-[![Azure Badge](https://github.com/user-attachments/assets/40a5f724-33bc-49d3-b40d-507c6cc947d0)](https://www.credly.com/badges/2f3e018b-7cde-442e-a775-b1e310583bd0)
-
+[![CKAD Badge](https://github.com/user-attachments/assets/de35627d-45f6-4140-aa5b-43bb26561be7)](https://www.credly.com/badges/76148454-8f7e-4980-82f3-075007ba8209)
+[![AWS Badge](https://github.com/user-attachments/assets/6ab69377-a173-41d0-919b-f95dd9767219)](https://www.credly.com/badges/a5a7bfa3-e1ff-49e2-bfa7-a4388d237f62)  
+[![Azure Badge](https://github.com/user-attachments/assets/5102140b-93f4-4653-8eb5-d4d335a7c9aa)](https://www.credly.com/badges/2f3e018b-7cde-442e-a775-b1e310583bd0)
 
 ## My socials :
 
