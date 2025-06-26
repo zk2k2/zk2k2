@@ -20,20 +20,18 @@
 </div>
 
 ## My credentials :
-
-[![CKAD](https://img.shields.io/badge/Certified%20Kubernetes-Application%20Developer-blue?logo=kubernetes&logoColor=white)](https://www.credly.com/users/YOUR-CREDLY-ID/badges)
-
+![blob]()
 
 <div class="creds">
   <a
-    href="https://www.linkedin.com/in/zied-kharrat/"
+    href="[https://www.linkedin.com/in/zied-kharrat/](https://www.credly.com/badges/76148454-8f7e-4980-82f3-075007ba8209)"
     target="_blank"
     rel="noreferrer"
   >
     <img
       height="30px"
-      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="LinkedIn Badge"
+      src="https://github.com/user-attachments/assets/e0c7d69f-58ce-414c-b514-8c5368b2e427"
+      alt="CKAD"
     />
   </a>
    <a
