@@ -20,47 +20,17 @@
 </div>
 
 ## My credentials :
+
 [![CKAD Badge](https://github.com/user-attachments/assets/de35627d-45f6-4140-aa5b-43bb26561be7)](https://www.credly.com/badges/76148454-8f7e-4980-82f3-075007ba8209)&nbsp;&nbsp;&nbsp;
 [![AWS Badge](https://github.com/user-attachments/assets/6ab69377-a173-41d0-919b-f95dd9767219)](https://www.credly.com/badges/a5a7bfa3-e1ff-49e2-bfa7-a4388d237f62)&nbsp;&nbsp;&nbsp;
 [![Azure Badge](https://github.com/user-attachments/assets/5102140b-93f4-4653-8eb5-d4d335a7c9aa)](https://www.credly.com/badges/2f3e018b-7cde-442e-a775-b1e310583bd0)&nbsp;&nbsp;&nbsp;
 
 ## My socials :
 
-<div class="badges">
-  <a
-    href="https://www.linkedin.com/in/zied-kharrat/"
-    target="_blank"
-    rel="noreferrer"
-  >
-    <img
-      height="30px"
-      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="LinkedIn Badge"
-    />
-  </a>
-   <a
-    href="https://www.upwork.com/freelancers/~01b5cb44a48adb32fc"
-    target="_blank"
-    rel="noreferrer"
-  >
-    <img
-      height="30px"
-      src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white"
-      alt="Upwork Badge"
-    />
-  </a>
-     <a
-    href="mailto:zied.kharrat@insat.ucar.tn"
-    target="_blank"
-    rel="noreferrer"
-  >
-    <img
-      height="30px"
-      src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-      alt="Gmail Badge"
-    />
-  </a>
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zied-kharrat/)
+[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~01b5cb44a48adb32fc)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zied.kharrat@insat.ucar.tn)
+
 
 <!---
 zk2k2/zk2k2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
