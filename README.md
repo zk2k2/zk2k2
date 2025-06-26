@@ -19,6 +19,47 @@
       />
 </div>
 
+## My credentials :
+
+[![CKAD](https://img.shields.io/badge/Certified%20Kubernetes-Application%20Developer-blue?logo=kubernetes&logoColor=white)](https://www.credly.com/users/YOUR-CREDLY-ID/badges)
+
+
+<div class="creds">
+  <a
+    href="https://www.linkedin.com/in/zied-kharrat/"
+    target="_blank"
+    rel="noreferrer"
+  >
+    <img
+      height="30px"
+      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn Badge"
+    />
+  </a>
+   <a
+    href="https://www.upwork.com/freelancers/~01b5cb44a48adb32fc"
+    target="_blank"
+    rel="noreferrer"
+  >
+    <img
+      height="30px"
+      src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white"
+      alt="Upwork Badge"
+    />
+  </a>
+     <a
+    href="mailto:zied.kharrat@insat.ucar.tn"
+    target="_blank"
+    rel="noreferrer"
+  >
+    <img
+      height="30px"
+      src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Gmail Badge"
+    />
+  </a>
+</div>
+
 ## My socials :
 
 <div class="badges">
