@@ -26,6 +26,7 @@
     href="https://www.credly.com/badges/76148454-8f7e-4980-82f3-075007ba8209"
     target="_blank"
     rel="noreferrer"
+    style="margin-right: 10px;"
   >
     <img
       height="100px"
@@ -37,6 +38,7 @@
     href="https://www.credly.com/badges/a5a7bfa3-e1ff-49e2-bfa7-a4388d237f62"
     target="_blank"
     rel="noreferrer"
+    style="margin-right: 10px;"
   >
     <img
       height="100px"
@@ -45,14 +47,15 @@
     />
   </a>
      <a
-    href="mailto:zied.kharrat@insat.ucar.tn"
+    href="https://www.credly.com/badges/2f3e018b-7cde-442e-a775-b1e310583bd0"
     target="_blank"
     rel="noreferrer"
+    style="margin-right: 10px;"
   >
     <img
-      height="30px"
-      src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-      alt="Gmail Badge"
+      height="100px"
+      src="https://github.com/user-attachments/assets/40a5f724-33bc-49d3-b40d-507c6cc947d0"
+      alt="azure"
     />
   </a>
 </div>
