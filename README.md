@@ -23,25 +23,25 @@
 
 <div class="creds">
   <a
-    href="[https://www.linkedin.com/in/zied-kharrat/](https://www.credly.com/badges/76148454-8f7e-4980-82f3-075007ba8209)"
+    href="https://www.credly.com/badges/76148454-8f7e-4980-82f3-075007ba8209"
     target="_blank"
     rel="noreferrer"
   >
     <img
       height="100px"
       src="https://github.com/user-attachments/assets/e0c7d69f-58ce-414c-b514-8c5368b2e427"
-      alt="CKAD"
+      alt="ckad"
     />
   </a>
    <a
-    href="https://www.upwork.com/freelancers/~01b5cb44a48adb32fc"
+    href="https://www.credly.com/badges/a5a7bfa3-e1ff-49e2-bfa7-a4388d237f62"
     target="_blank"
     rel="noreferrer"
   >
     <img
-      height="30px"
-      src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white"
-      alt="Upwork Badge"
+      height="100px"
+      src="https://github.com/user-attachments/assets/fcf16be2-2260-4975-b511-b73cc008d5a5"
+      alt="aws"
     />
   </a>
      <a
