@@ -1,7 +1,7 @@
 # Hey there 👋! Welcome to my GitHub profile
 
 - 👋 Hi, I’m Zied, a CS student [@INSAT](https://www.linkedin.com/school/national-institute-of-applied-science-and-technology/), based in Tunisia.<br/>
-- 💻 Currently a Software & DevOps Engineering Intern [@CareerBoosts](https://www.linkedin.com/company/careerboosts).<br />
+- 💻 Open-source contributor who's very passionate about tech.<br />
 - ✨ Interested in Software Development, DevOps and AI.<br />
 - 🎯 Always open to collaborating on exciting projects!<br />
 
