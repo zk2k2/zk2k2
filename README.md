@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m Zied, a CS student [@INSAT](https://www.linkedin.com/school/national-institute-of-applied-science-and-technology/), based in Tunisia.<br/>
 - 💻 Open-source contributor who's very passionate about tech.<br />
-- ✨ Interested in Software Development, DevOps and AI.<br />
+- ✨ Interested in Software Development, DevOps and AI/MLOps.<br />
 - 🎯 Always open to collaborating on exciting projects!<br />
 
 ## My GitHub stats so far :
